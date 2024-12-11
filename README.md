@@ -4,6 +4,10 @@ This is a simple JavaScript function that generates all possible letter combinat
 The function includes a recursive backtracking implementation.
 There is also a test suite (test.js) using **Mocha** and **Chai**.
 
+# React App
+
+I created also a simple React app that displays the letter combinations and shows the solution as a tree structure. You can access the app at the following public URL [Live Demo: Letter Combinations App](https://letter-combinations.vercel.app/)
+
 ### Function
 
 The `letterCombinations` function takes a string of digits as input and returns an array of all possible letter combinations.
